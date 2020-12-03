@@ -66,3 +66,34 @@
 	<input type="checkbox" id="skillskill" name="skill" value="Microsoft Office">
 	<label for="skills">Microsoft Office</label>
 	<input type="checkbox" id="skill" name="skill" value="Adobe Premiere">
+	<label for="skill">Adobe Premiere</label>
+		</td>
+	</tr>
+
+	<tr>
+		<th>Say Something</th>
+		<td colspan="2">
+			<textarea id="Comment"name="Comment" rows="6" cols="50">
+		Say something here.
+			</textarea>
+		</td>
+	</tr>
+
+	<tr>
+		<td colspan="3">
+			<input type="submit" value="submit">
+			<input type="reset" value="reset">
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+
+
+
+
+
+</body>
+</html>
