@@ -73,10 +73,8 @@
 	<tr>
 		<th>Say Something</th>
 		<td colspan="2">
-			<textarea id="Comment"name="Comment" rows="6" cols="50">
-		Say something here.
-			</textarea>
-		</td>
+				<textarea rows ="4" cols="50">Say something here</textarea>
+			</td>
 	</tr>
 
 	<tr>
